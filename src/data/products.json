@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "price": 49.99,
+    "image": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "audio",
+    "description": "Comfortable wireless headphones with 20h battery life. Premium sound quality with noise cancellation and ergonomic design for all-day comfort."
+  },
+  {
+    "id": 2,
+    "title": "Smartphone Case",
+    "price": 12.5,
+    "image": "https://images.pexels.com/photos/5081386/pexels-photo-5081386.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "Slim protective case for modern smartphones. Drop-tested and scratch-resistant with precise cutouts for all ports and buttons."
+  },
+  {
+    "id": 3,
+    "title": "Laptop Stand",
+    "price": 34.99,
+    "image": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "Adjustable aluminum laptop stand with ergonomic design. Improves posture and increases airflow for better cooling."
+  },
+  {
+    "id": 4,
+    "title": "Wireless Mouse",
+    "price": 24.99,
+    "image": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "Ergonomic wireless mouse with precision tracking. Long battery life and comfortable grip for extended use."
+  },
+  {
+    "id": 5,
+    "title": "USB-C Cable",
+    "price": 8.99,
+    "image": "https://images.pexels.com/photos/4219654/pexels-photo-4219654.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "Durable braided USB-C cable with fast charging support. 6ft length provides flexibility for any workspace."
+  },
+  {
+    "id": 6,
+    "title": "Bluetooth Speaker",
+    "price": 59.99,
+    "image": "https://images.pexels.com/photos/3394666/pexels-photo-3394666.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "audio",
+    "description": "Portable Bluetooth speaker with 360-degree sound. Waterproof design with 12 hours of playtime on a single charge."
+  },
+  {
+    "id": 7,
+    "title": "Mechanical Keyboard",
+    "price": 89.99,
+    "image": "https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "RGB mechanical keyboard with tactile switches. Customizable backlighting and programmable keys for productivity."
+  },
+  {
+    "id": 8,
+    "title": "Webcam HD",
+    "price": 45.99,
+    "image": "https://images.pexels.com/photos/2582935/pexels-photo-2582935.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "1080p HD webcam with auto-focus and low-light correction. Perfect for video calls and streaming."
+  },
+  {
+    "id": 9,
+    "title": "Earbuds Pro",
+    "price": 79.99,
+    "image": "https://images.pexels.com/photos/3825517/pexels-photo-3825517.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "audio",
+    "description": "Premium wireless earbuds with active noise cancellation. Sweat-resistant design with charging case included."
+  },
+  {
+    "id": 10,
+    "title": "Power Bank",
+    "price": 29.99,
+    "image": "https://images.pexels.com/photos/4219861/pexels-photo-4219861.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "10,000mAh portable power bank with dual USB ports. Fast charging support for all your devices on the go."
+  },
+  {
+    "id": 11,
+    "title": "Monitor 24 inch",
+    "price": 149.99,
+    "image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "accessories",
+    "description": "Full HD 24-inch monitor with IPS panel. Wide viewing angles and accurate color reproduction for work and entertainment."
+  },
+  {
+    "id": 12,
+    "title": "Gaming Headset",
+    "price": 69.99,
+    "image": "https://images.pexels.com/photos/3587478/pexels-photo-3587478.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "audio",
+    "description": "Professional gaming headset with surround sound and noise-canceling microphone. Comfortable padding for long gaming sessions."
+  },
+   {
+    "id": 13,
+    "title": "Smartwatch X Pro",
+    "price": 129.99,
+    "image": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "smart devices",
+    "description": "Elegant smartwatch with heart rate monitoring, GPS, and customizable watch faces. Compatible with Android and iOS."
+  },
+  {
+    "id": 14,
+    "title": "Tablet 10-inch",
+    "price": 199.99,
+    "image": "https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "computers",
+    "description": "10-inch HD tablet with quad-core processor and 64GB storage. Great for movies, reading, and light productivity."
+  },
+  {
+    "id": 15,
+    "title": "DSLR Camera",
+    "price": 499.99,
+    "image": "https://images.pexels.com/photos/274973/pexels-photo-274973.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "cameras",
+    "description": "Professional DSLR camera with 24MP sensor and full HD video recording. Includes lens kit and accessories."
+  },
+  {
+    "id": 16,
+    "title": "Drone Mini 4K",
+    "price": 249.99,
+    "image": "https://images.pexels.com/photos/4396366/pexels-photo-4396366.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "cameras",
+    "description": "Compact drone with 4K video, GPS, and 30-minute flight time. Perfect for aerial photography and videography."
+  },
+  {
+    "id": 17,
+    "title": "Smart Light Bulb",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/577514/pexels-photo-577514.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "smart devices",
+    "description": "Wi-Fi smart bulb with adjustable brightness and color. Works with Alexa and Google Home for voice control."
+  },
+  {
+    "id": 18,
+    "title": "Gaming Mouse RGB",
+    "price": 39.99,
+    "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "gaming",
+    "description": "High-precision gaming mouse with RGB lighting and customizable buttons. Optimized for FPS and MOBA games."
+  },
+  {
+    "id": 19,
+    "title": "Smart TV 43 inch",
+    "price": 379.99,
+    "image": "https://images.pexels.com/photos/1201996/pexels-photo-1201996.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "smart devices",
+    "description": "43-inch 4K UHD Smart TV with HDR and built-in Wi-Fi. Supports Netflix, YouTube, and screen mirroring."
+  },
+  {
+    "id": 20,
+    "title": "External Hard Drive 1TB",
+    "price": 64.99,
+    "image": "https://images.pexels.com/photos/159220/pexels-photo-159220.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "category": "computers",
+    "description": "1TB external hard drive with USB 3.0. Compact, fast, and reliable for storing backups and large files."
+  }
+]
