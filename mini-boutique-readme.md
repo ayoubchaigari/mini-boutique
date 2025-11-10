@@ -10,7 +10,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-5.3+-7952B3.svg?logo=bootstrap)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-[📦 Demo](https://mini-boutique.netlify.app) • [🐛 Report Bug](https://github.com/ayoubchaigari/mini-boutique/issues) • [✨ Request Feature](https://github.com/ayoubchaigari/mini-boutique/issues)
+[📦 Demo](https://mini-boutique.netlify.app)  • [✨ Request Feature](https://github.com/ayoubchaigari/mini-boutique/issues)
 
 </div>
 
