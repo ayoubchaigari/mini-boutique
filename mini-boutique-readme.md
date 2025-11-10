@@ -746,13 +746,13 @@ Lighthouse Score:        95+ / 100
 
 <div align="center">
 
-### **Made with ❤️ by [Your Name]**
+### **Made by Ayoub chaigari**
 
 ⭐ **Star this repo if you found it helpful!**
 
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/mini-boutique?style=social)](https://github.com/ayoubchaigari/mini-boutique)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/mini-boutique?style=social)](https://github.com/ayoubchaigari/mini-boutique)
-[![Watchers](https://img.shields.io/github/watchers/YOUR_USERNAME/mini-boutique?style=social)](https://github.com/ayoubchaigari/mini-boutique)
+[![Stars](https://img.shields.io/github/stars/ayoubchaigari/mini-boutique?style=social)](https://github.com/ayoubchaigari/mini-boutique)
+[![Forks](https://img.shields.io/github/forks/ayoubchaigari/mini-boutique?style=social)](https://github.com/ayoubchaigari/mini-boutique)
+[![Watchers](https://img.shields.io/github/watchers/ayoubchaigari/mini-boutique?style=social)](https://github.com/ayoubchaigari/mini-boutique)
 
 ---
 
